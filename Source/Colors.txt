@@ -1,0 +1,7 @@
+--- Maybe change ---
+
+Errors                            : Red
+Announcements                     : Blue
+Success                           : Green
+Messages (Help, rules, etc.)      : Black
+Responses (Roles list, etc.)      : Purple

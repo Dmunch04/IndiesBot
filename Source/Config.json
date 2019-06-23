@@ -1,0 +1,114 @@
+{
+  "Comment": "General settings",
+  "Token": "",
+  "Prefix": "!",
+  "Users": "0",
+  "Status": "Use: {}help. Users: {}",
+  "Invite": "https://discord.gg/B5qvUak",
+  "ServerID": "454253141731573770",
+  "TwitchID": "1bkmon5ekz8p9umnhm7o7mgc037vgy",
+  "MakeIndiesTwitchID": "125080945",
+
+  "Comment": "File & Folder paths",
+  "UserPath": "Data/Users/",
+
+  "Comment": "Server channels",
+  "AnnouncementsChannel": "announcements",
+
+  "Comment": "Other settings/configurations/variables",
+  "StreamSleep": 30,
+  "SupportIndex": "1",
+
+  "Comment": "Roles",
+  "Roles": [
+    "artist",
+    "dev",
+    "voice artist",
+    "2d artist",
+    "3d artist",
+    "pixel artist",
+    "musician"
+  ],
+  "SupportRole": "Support Team",
+  "ModeratorRole": "Moderator",
+  "MutedRole": "Muted",
+
+  "Comment": "Command settings",
+  "CommandsFolder": "Commands",
+  "Commands": [
+    "Help",
+    "About",
+    "Rules",
+    "Social",
+    "Role",
+    "User",
+    "Server",
+    "Support",
+    "Staff",
+    "Developer"
+  ],
+  "CommandsList": [
+    "help",
+    "commands",
+    "command",
+    "about",
+    "rules",
+    "rule",
+    "roles",
+    "role",
+    "invite",
+    "thanks",
+    "patreon",
+    "twitch",
+    "twitter",
+    "instagram",
+    "support"
+  ],
+
+  "Comment": "Modules settings",
+  "ModulesFolder": "Modules",
+  "Modules": [
+    "TwitchAnnouncement"
+  ],
+
+  "Comment": "Social links",
+  "Socials": {
+    "Patreon": "https://www.patreon.com/makeindies",
+    "Twitch": "https://www.twitch.tv/makeindies",
+    "Twitter": "https://twitter.com/makeindies",
+    "Instagram": "https://www.instagram.com/makeindies/"
+  },
+
+  "Comment": "Messages",
+  "Messages": {
+    "Help": "Help message",
+    "Commands": {
+      "{}help": "Sends a help message.",
+      "{}commands": "Sends a message, listing all commands.",
+      "{}command <Command Name>": "Sends information about the specific command.",
+      "{}about": "Sends a message about Make Indies.",
+      "{}rules": "Lists all Make Indies rules.",
+      "{}rule <Rule Number>": "Sends the specific rule by the given index.",
+      "{}roles": "List all addable roles.",
+      "{}role <Role>": "Adds the specified role to the user, if the role is addable.",
+      "{}invite": "Sends the servers invite link.",
+      "{}thanks <User>": "Adds a karma point to the given user. Abusing this will result in punishment!",
+      "{}patreon": "Sends link to Patreon page.",
+      "{}twitch": "Sends link to Twitch channel.",
+      "{}twitter": "Sends link to Twitter page.",
+      "{}instagram": "Sends link to Instagram page.",
+      "{}support <Brief Description>": "Starts a support ticket with the support team."
+    },
+    "About": "About message",
+    "Rules": [
+      "No harassment, discrimination, racism or abuse of any kind.",
+      "No inappropriate usernames, emotes or avatars.",
+      "No drug, NSFW, pornography, sexually explicit or suggestive content.",
+      "No spamming the server, or users via DM.",
+      "No sharing of content that was illegally obtained or violates intellectual property rights/copyright laws, no discussing methods for obtaining said content.",
+      "Most importantly, be kind to one another and actively assist the community! "
+    ],
+    "TwitchAnnouncement": "Look {}! Make Indies is live on Twitch, streaming: {}.\nWatch at: {}",
+    "Welcome": "We wanna welcome you to the Make Indies Discord server!\nFeel free to ask any member if you have a question, or ask a Moderator. We ask you to not DM any Moderator/Admin with Make Indies related stuff, but instead ask in the server, or create a support ticket, with: `!support <Brief Description>`. To get started, please read our rules in the `rules` channel, or do `!rules` in the `bot-commands` channel. We're happy to have you in our community!\n\n- The Make Indies staff team"
+  }
+}
